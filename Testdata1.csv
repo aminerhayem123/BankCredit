@@ -1,0 +1,6 @@
+person_age,person_income,person_home_ownership,person_emp_length,loan_intent,loan_grade,loan_amnt,loan_int_rate,loan_status,loan_percent_income,cb_person_default_on_file,cb_person_cred_hist_length
+21,11389,OTHER,5.0,EDUCATION,C,4000,12.84,1,0.35,Y,2
+21,11520,OWN,5.0,MEDICAL,B,2000,11.12,1,0.17,N,3
+25,120000,RENT,2.0,VENTURE,A,32000,6.62,0,0.27,N,2
+26,95000,RENT,7.0,HOMEIMPROVEMENT,C,31050,14.17,1,0.33,Y,3
+25,306000,RENT,2.0,DEBTCONSOLIDATION,C,24250,13.85,0,0.08,N,3

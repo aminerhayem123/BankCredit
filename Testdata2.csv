@@ -1,0 +1,5 @@
+person_age,person_income,person_home_ownership,person_emp_length,loan_intent,loan_grade,loan_amnt,loan_int_rate,loan_status,loan_percent_income,cb_person_default_on_file,cb_person_cred_hist_length
+22,59000,RENT,123.0,PERSONAL,D,35000,16.02,1,0.59,Y,3
+21,10000,OWN,6.0,VENTURE,D,1600,14.74,1,0.16,N,3
+22,85000,RENT,6.0,VENTURE,B,35000,10.37,1,0.41,N,4
+21,10000,OWN,2.0,HOMEIMPROVEMENT,A,4500,8.63,1,0.45,N,2
